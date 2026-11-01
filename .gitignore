@@ -1,0 +1,7 @@
+cmake-build-release-win
+cmake-build-debug-win
+cmake-build-release-wsl
+cmake-build-debug-wsl
+
+*.exe
+disk-report-*.md
