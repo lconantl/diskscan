@@ -1,5 +1,8 @@
 # Diskscan
 
+[![Release](https://img.shields.io/github/v/release/lconantl/diskscan)](https://github.com/lconantl/diskscan/releases/latest)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue)](license)
+
 CLI-утилита которая за один проход собирает подробный отчёт о заполненности
 диска Windows и сохраняет его. Программа ничего не удаляет и не изменяет —
 только читает.
